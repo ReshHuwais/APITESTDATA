@@ -1,0 +1,4 @@
+[{"Expected Record Count":100,"Actual Record Count":100,"Response Status":200,"Result":true},
+{"Expected Record Count":100,"Actual Record Count":1,"Response Status":200,"Result":true},
+{"Expected Record ":"invalidposts","Actual Record":{"Request ":"https://jsonplaceholder.typicode.com/invalidposts","Response":{}},"Response Status":404,"Result":true},{"Post Call":{"title":"foo","body":"bar","userId":1,"id":101},"Response Status":201,"Result":true},
+{"Update Call":{"id":1,"title":"abc","body":"xyz","userId":1},"Response Status":200,"Result":true},{"Delete Call":{},"Response Status":200,"Result":true}]
